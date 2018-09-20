@@ -1,0 +1,9 @@
+{
+	"name": "daytracer",
+	"authors": [
+		"mcmacker4"
+	],
+	"description": "Raytracer.",
+	"copyright": "Copyright © 2018, mcmacker4",
+	"license": "GPL-3.0"
+}

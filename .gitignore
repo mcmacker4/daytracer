@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+daytracer.so
+daytracer.dylib
+daytracer.dll
+daytracer.a
+daytracer.lib
+daytracer-test-*
+*.exe
+*.o
+*.obj
+*.lst
+
+render.png
